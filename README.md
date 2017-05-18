@@ -1,4 +1,4 @@
-# Tuxcon_kitty
+# DIY: Tuxcon_kitty
 
 
 ![alt text](https://github.com/d3v1c3nv11/Tuxcon_kitty/blob/master/kitty.JPG)
