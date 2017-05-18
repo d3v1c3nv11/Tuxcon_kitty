@@ -40,6 +40,8 @@ Then you must choose the right board. To do so:
 
 ################## IMPORTANT NOTE ##################
 
+ Tuxcon Kitty board is preprogramed with modified micronucleus-t85 bootloader. You can download from here: https://github.com/d3v1c3nv11/micronucleus-t85
+
 This sketchfile is written to work with external DC supply (CR2032 battery), so if you want to 
 power your Kitty board with USB, instead of battery, you should change this line from the sketch file:
 
